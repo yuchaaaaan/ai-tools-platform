@@ -31,7 +31,7 @@ npm install
 3. 環境変数の設定:
 `.env.local`ファイルを作成し、必要な環境変数を設定:
 ```
-NEXT_PUBLIC_DIFY_API_BASE_URL=https://dify.pepalab.com
+NEXT_PUBLIC_DIFY_API_BASE_URL=https://~~~~~
 NEXT_PUBLIC_URL_ANALYZER_API_KEY=your_key_here
 NEXT_PUBLIC_EMAIL_EVALUATOR_API_KEY=your_key_here
 NEXT_PUBLIC_CHUNK_GENERATOR_API_KEY=your_key_here
